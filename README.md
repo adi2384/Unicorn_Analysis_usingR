@@ -6,6 +6,11 @@ This project analyzes a dataset of unicorn startups to uncover trends, patterns,
 The goal is to use R to derive meaningful insights from data effectively, showcasing how data science tools can enhance our understanding of the rapidly evolving startup ecosystem. This project emphasizes the importance of clean, well-prepared data in making informed decisions in the competitive world of unicorn startups.
 
 
+![Dashboard](https://raw.githubusercontent.com/https://github.com/adi2384/Unicorn_Analysis_usingR/blob/main/Screenshot%202025-02-23%20113933.png?raw=true)
+
+
+
+
 This project leverages R to explore and analyze unicorn startup data, focusing on companies valued at over $1 billion. The work is divided into two main components:
 
 Data Visualization: Trends in valuations, sector distributions, growth over time, and geographic patterns were effectively visualized using techniques like bar plots, line charts, pie charts, and scatter plots. These visualizations provided a clear understanding of the dataset's structure and revealed patterns in startup performance.
@@ -27,6 +32,9 @@ Tools Used
 R Studio (ggplot2, dplyr) – For statistical analysis and visualization.
 
 This methodology ensures a structured approach to analyzing Indian unicorn companies and provides insights into the factors influencing their success through data visualization.
+
+
+
 
 
 
